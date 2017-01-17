@@ -1,7 +1,7 @@
 
 class Arithmetic {
     Long add(Long a, Long b) {
-        return a + b;
+        return a - b;
     }
 
     Long subtract(Long a, Long b) {
