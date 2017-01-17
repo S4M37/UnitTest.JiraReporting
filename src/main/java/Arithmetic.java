@@ -5,7 +5,7 @@ class Arithmetic {
     }
 
     Long subtract(Long a, Long b) {
-        return a / b;
+        return a - b;
     }
 
     Long multiplication(Long a, Long b) {
