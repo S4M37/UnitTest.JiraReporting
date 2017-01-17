@@ -13,6 +13,6 @@ class Arithmetic {
     }
 
     Long divide(Long a, Long b) {
-        return a + b;
+        return a / b;
     }
 }
