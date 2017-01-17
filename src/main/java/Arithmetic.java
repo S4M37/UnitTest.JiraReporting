@@ -9,7 +9,7 @@ class Arithmetic {
     }
 
     Long multiplication(Long a, Long b) {
-        return a + b;
+        return a * b;
     }
 
     Long divide(Long a, Long b) {
