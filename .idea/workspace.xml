@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae1e2dd1-44d7-43f9-be5c-b662a7afa3c2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Arithmetic.java" afterPath="$PROJECT_DIR$/src/main/java/Arithmetic.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,14 +46,14 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
               <folding>
                 <element signature="e#49#50#0" expanded="true" />
                 <element signature="e#77#78#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -688,7 +687,7 @@
       <workItem from="1484601628010" duration="4424000" />
       <workItem from="1484642194964" duration="4397000" />
       <workItem from="1484683500351" duration="1494000" />
-      <workItem from="1484773418342" duration="447000" />
+      <workItem from="1484773418342" duration="489000" />
     </task>
     <servers />
   </component>
@@ -698,7 +697,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10762000" />
+    <option name="totallyTimeSpent" value="10804000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -777,10 +776,10 @@
           <folding>
             <element signature="e#49#50#0" expanded="true" />
             <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -824,10 +823,10 @@
           <folding>
             <element signature="e#49#50#0" expanded="true" />
             <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -871,10 +870,10 @@
           <folding>
             <element signature="e#49#50#0" expanded="true" />
             <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -930,14 +929,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
           <folding>
             <element signature="e#49#50#0" expanded="true" />
             <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
           </folding>
         </state>
       </provider>
